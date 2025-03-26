@@ -25,6 +25,7 @@ This project demonstrates a simple AI-based prompt generator using Python (Flask
 ```bash
 git clone https://github.com/ermehar/PromptFlow.git
 cd PromptFlow
+```
 
 ### **2. Set up a Virtual Environment** *(Optional)*
 - Create a virtual environment:
