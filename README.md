@@ -3,12 +3,6 @@ This project demonstrates a simple AI-based prompt generator using Python (Flask
 
 ---
 
-## **📁 Project Structure**  
-├── static/ │ ├── css/ │ │ └── styles.css ├── templates/ │ └── index.html ├── app.py ├── favicon.ico ├── .gitignore ├── README.md └── requirements.txt
-
-
----
-
 ## **🛠️ Tech Stack**  
 - **Frontend:** HTML, CSS (Bootstrap)  
 - **Backend:** Python (Flask)  
