@@ -41,7 +41,7 @@ python3 -m venv venv
     ```bash
     source venv/bin/activate
     ```
-### **3. Install Required Packages ** 
+### **3. Install Required Packages**
 - Install the necessary dependencies:
 ```bash
 pip3 install flask flask-cors openai
